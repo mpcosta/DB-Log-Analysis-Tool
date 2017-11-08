@@ -22,6 +22,15 @@ Run `psql -d news -f newsdata.sql`.
 
 Final process you just have to run `python news_log.py` in order to get the results from the log tool.
 
+Inside the `news_log.py` you can change parameter values of some methods inside the main class in order to obtain different results.
+Example:
+```python
+# Will get the 4 most popular articles
+get_most_popular_artc(4);
+
+# Will get the day with error requests above 2%
+get_most_err_req(2);
+```
 
 ## Interface
 
