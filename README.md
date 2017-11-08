@@ -28,5 +28,5 @@ Final process you just have to run `python news_log.py` in order to get the resu
 Shell Based Interface with the requested results.  
 
 
-![img](https://imgur.com/a/AXKzi)
+![img](https://imgur.com/a/AXKzi.png)
 
